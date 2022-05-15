@@ -26,7 +26,6 @@ tripsters
 TheHeathensNFT
 NFTYKEYS
 projectPXN
-youtopianft
 TastyBonesNFT
 HAPEsocial
 ALPACADABRAZ
@@ -136,13 +135,11 @@ SSDefendersNFT
 NoryozNFT
 ZoomersNFT
 CatfeeClub
-MetaZork_nft
 SkaterBirdsNFT
 KaijuKingz
 Magma_nft
 TrippinApeNFT
 vividcojp
-ZanWGMI
 9gagceo
 VinceniaNft
 NaimitsuAI
@@ -168,3 +165,9 @@ Pots_NFT
 arcaneverse
 TamaraDai_
 JIKANSTUDIOS
+ZanYurr
+SNCollabs
+RegulatedNFT
+YokeeNFT
+777studio_
+ShroudedNFT
