@@ -171,3 +171,6 @@ RegulatedNFT
 YokeeNFT
 777studio_
 ShroudedNFT
+TastiesNFT
+AlyaValley
+ShisokaNFT
