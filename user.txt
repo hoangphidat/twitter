@@ -42,7 +42,6 @@ MaisonGhost
 yugalabs
 SVSNFT
 TheSpacePals
-coryokuz
 AneroVerse
 SlimysNFT
 LittleEstherNFT
@@ -165,7 +164,6 @@ Pots_NFT
 arcaneverse
 TamaraDai_
 JIKANSTUDIOS
-ZanYurr
 SNCollabs
 RegulatedNFT
 YokeeNFT
@@ -183,3 +181,12 @@ Teddies_app
 MidnightPanthrs
 WeirdNomadClub
 BlockchainGavin
+yookorunners
+k_mechanics
+Nakama_meta
+CamoChameleonC
+RRacoonClub
+Wobblebug
+Gakko_Monkez
+BubblegooseXYZ
+GRAYCRAFTnft
