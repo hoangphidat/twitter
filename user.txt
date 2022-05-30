@@ -59,7 +59,6 @@ alphabirds_xyz
 ragstorichienft
 GreatGoatsNFT
 kingsofdastreet
-trippyworldlabs
 MysticMen_
 TheHaQa
 Pots_NFT
@@ -146,3 +145,6 @@ SecretAlphaLabs
 hangoutDao_
 YokeeNFT
 InternetFoxes
+JunityNFT
+Laydeeznft
+USPOOKEDME
