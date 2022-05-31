@@ -16,13 +16,10 @@ MysticsNFT
 BentoBoiNFT
 Kuroki_NFT
 LlamascapeNFT
-CelephaisNFT
 thefranklinsnft
-KiraverseNFT
 B_F_Party
 BBRCOfficial
 BoardGamersNFT
-CheetopiaNFT
 dobiesnft
 garbagefriends
 lunarprojectnft
@@ -34,7 +31,6 @@ Hyundai_NFT
 ti_em_em
 projectkyzen
 Machina_NFT
-SkullSquad_
 TheBubblewrld
 CatfeeClub
 Magma_nft
@@ -81,9 +77,6 @@ justape_
 crazycatznft
 MoonLanderzNFT
 AudiOfficial
-SenshiiNFT
-PopboneNFT
-SinnersClub_
 ChiefToadNFT
 DuppiesNFT
 DreamersNFT_
@@ -106,7 +99,6 @@ Katatonik_nft
 ZUKUVERSE
 honestmoosenft
 WibinWolves
-heroesofes
 VALHALLA__LABS
 DemonixNFTs
 Kazuki_NFT
@@ -118,6 +110,5 @@ SecretAlphaLabs
 hangoutDao_
 YokeeNFT
 InternetFoxes
-JunityNFT
 Laydeeznft
 USPOOKEDME
