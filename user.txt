@@ -1,7 +1,6 @@
 sneakerheadsoff
 ThePossessedNFT
 MegaParkNFT
-doombooNFT
 LonelyLegendNFT
 InvisiblePetNFT
 cubexnft
@@ -14,7 +13,6 @@ AswangTribe
 rebelsbynight
 MysticsNFT
 BentoBoiNFT
-Kuroki_NFT
 LlamascapeNFT
 thefranklinsnft
 B_F_Party
@@ -36,9 +34,7 @@ CatfeeClub
 Magma_nft
 vividcojp
 9gagceo
-VinceniaNft
 NaimitsuAI
-Moonsie_NFT
 OakParadiseNFT
 VandalCityCorp
 alphabirds_xyz
@@ -85,7 +81,6 @@ HALONFTOFFICIAL
 WarcraftRumble
 WSDC_NFT
 ThePilgrimsNFT
-Suteki_NFT
 facex_nft
 LlamaLabsNFT
 HighSocietyBS
