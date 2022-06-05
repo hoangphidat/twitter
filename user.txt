@@ -1,7 +1,6 @@
 sneakerheadsoff
 ThePossessedNFT
 MegaParkNFT
-LonelyLegendNFT
 InvisiblePetNFT
 cubexnft
 NFTYKEYS
@@ -14,7 +13,6 @@ rebelsbynight
 MysticsNFT
 BentoBoiNFT
 LlamascapeNFT
-thefranklinsnft
 B_F_Party
 BBRCOfficial
 BoardGamersNFT
@@ -32,14 +30,12 @@ Machina_NFT
 TheBubblewrld
 CatfeeClub
 Magma_nft
-vividcojp
 9gagceo
 NaimitsuAI
 OakParadiseNFT
 VandalCityCorp
 alphabirds_xyz
 ragstorichienft
-GreatGoatsNFT
 MysticMen_
 TheHaQa
 Pots_NFT
@@ -51,7 +47,6 @@ neo_hunters
 Primatesnft
 Teddies_app
 MidnightPanthrs
-BlockchainGavin
 k_mechanics
 CamoChameleonC
 RRacoonClub
@@ -62,7 +57,6 @@ TokyoGlitchNFT
 Entricals
 BakedBeavers
 BitBoys_NFT
-ill_lawi
 ImmoralKids
 BakedBerserk
 BornToBeMeBrand
@@ -77,11 +71,8 @@ ChiefToadNFT
 DuppiesNFT
 DreamersNFT_
 SpaceWarlockNFT
-HALONFTOFFICIAL
-WarcraftRumble
 WSDC_NFT
 ThePilgrimsNFT
-facex_nft
 LlamaLabsNFT
 HighSocietyBS
 GangstaGoonz
@@ -94,7 +85,6 @@ Katatonik_nft
 ZUKUVERSE
 honestmoosenft
 WibinWolves
-VALHALLA__LABS
 DemonixNFTs
 Kazuki_NFT
 TokyoSaintsNft
@@ -103,9 +93,11 @@ SukonNFT
 KalaKlub_
 SecretAlphaLabs
 hangoutDao_
-YokeeNFT
 InternetFoxes
 Laydeeznft
 USPOOKEDME
 robotmafiaclub
 ChillDogsClub
+ZekiroNFT
+convertiblesnft
+WeirdPalsNFT
