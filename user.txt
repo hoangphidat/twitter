@@ -81,3 +81,4 @@ DegenTownNFT
 operationSIN
 Oneira__
 TheAsuraProject
+LonelyLegendNFT
