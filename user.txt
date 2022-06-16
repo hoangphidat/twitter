@@ -50,7 +50,7 @@ Gridcraft
 MaisonGiveaways
 MetakamiNFT
 SpitBuddies
-.ShroudedNFT
+ShroudedNFT
 ShisokaNFT
 MidnightPanthrs
 Gakko_Monkez
