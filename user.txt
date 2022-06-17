@@ -53,6 +53,8 @@ SpitBuddies
 FuckPassNFT
 KAI_NFTfreemint
 Yogapetz
+ChimpsNFT
+metacraftersio
 ShroudedNFT
 ShisokaNFT
 MidnightPanthrs
@@ -79,3 +81,5 @@ ZakiroNFT
 FudBoisNFT
 EmojiverseNFT
 bravebullsnft
+NightmarePrjct
+CryptoMangaLabs
