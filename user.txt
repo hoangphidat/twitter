@@ -50,6 +50,9 @@ Gridcraft
 MaisonGiveaways
 MetakamiNFT
 SpitBuddies
+FuckPassNFT
+KAI_NFTfreemint
+Yogapetz
 ShroudedNFT
 ShisokaNFT
 MidnightPanthrs
@@ -74,3 +77,5 @@ ChillDogsClub
 pengsol_
 ZakiroNFT
 FudBoisNFT
+EmojiverseNFT
+bravebullsnft
