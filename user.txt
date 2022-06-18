@@ -62,6 +62,8 @@ nickelodeon_nft
 RecurForever
 NBAxNFT
 SUPERF3ST
+DusktopiaNFT
+ZeninNFT2
 ShroudedNFT
 ShisokaNFT
 MidnightPanthrs
@@ -90,3 +92,4 @@ EmojiverseNFT
 bravebullsnft
 NightmarePrjct
 CryptoMangaLabs
+kaizoku_nft
