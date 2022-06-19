@@ -64,6 +64,8 @@ NBAxNFT
 SUPERF3ST
 DusktopiaNFT
 ZeninNFT2
+MaisonGhost
+UltiverseDAO
 ShroudedNFT
 ShisokaNFT
 MidnightPanthrs
