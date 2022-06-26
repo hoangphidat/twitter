@@ -107,4 +107,3 @@ OakParadiseNFT
 AlchemistzNFT
 JewelersNFT
 polychainmon
-LootexIO
