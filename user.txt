@@ -77,13 +77,12 @@ DonteCrypto
 KaijuKingz
 nftadvent
 PhasesNFT
-0xElectricsheep
+WonderersNFT
 ShroudedNFT
 ShisokaNFT
 BakedBerserk
 crazycatznft
 SpaceWarlockNFT
-ThePilgrimsNFT
 ZooniesXYZ
 Mystical_Masks
 Katatonik_nft
@@ -107,3 +106,7 @@ OakParadiseNFT
 AlchemistzNFT
 JewelersNFT
 polychainmon
+wagmiarmynft
+Gremlintownwtf_
+SuperSoldiers3D
+chimpnana
