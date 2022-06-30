@@ -14,7 +14,6 @@ Magma_nft
 9gagceo
 ragstorichienft
 MysticMen_
-TastiesNFT
 ChubbyJiras
 s7nsstation
 ChiefToadNFT
@@ -47,7 +46,6 @@ MaisonGhost
 15lovenft
 YokeeNFT
 shadow_xzy
-DegenSweepers
 HameerHussain
 TakoaGiving
 OnChainMonkey
@@ -72,6 +70,9 @@ KaijuKingz
 nftadvent
 PhasesNFT
 WonderersNFT
+tinyastroNFT
+YokaiVerseIO
+B_F_Party
 ShroudedNFT
 ShisokaNFT
 BakedBerserk
@@ -83,7 +84,6 @@ Katatonik_nft
 ZUKUVERSE
 Kazuki_NFT
 BloodBatsNFT
-SecretAlphaLabs
 InternetFoxes
 USPOOKEDME
 ZakiroNFT
@@ -104,3 +104,8 @@ SuperSoldiers3D
 chimpnana
 DreamersNFT_
 solanamobile
+UltimateFoxyCl1
+GGiraffesNFT
+DegenSweepers
+thefriendgiants
+AliensTrippin
