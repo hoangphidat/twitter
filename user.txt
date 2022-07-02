@@ -73,6 +73,7 @@ WonderersNFT
 tinyastroNFT
 YokaiVerseIO
 B_F_Party
+0xTajigen
 ShroudedNFT
 ShisokaNFT
 BakedBerserk
