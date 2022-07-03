@@ -74,6 +74,8 @@ tinyastroNFT
 YokaiVerseIO
 B_F_Party
 0xTajigen
+TheOrnisNFT
+Dres_Empire
 ShroudedNFT
 ShisokaNFT
 BakedBerserk
@@ -110,3 +112,4 @@ GGiraffesNFT
 DegenSweepers
 thefriendgiants
 AliensTrippin
+LykeIsland
