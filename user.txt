@@ -1,11 +1,8 @@
-ThePossessedNFT
 cubexnft
 NFTYKEYS
 IsekaiMeta
-WSecretClub_nft
 MysticsNFT
 BentoBoiNFT
-garbagefriends
 lunarprojectnft
 memeland
 ti_em_em
@@ -20,7 +17,6 @@ ChiefToadNFT
 DuppiesNFT
 ZekiroNFT
 SuperDracos
-DegenTownNFT
 operationSIN
 Oneira__
 TheAsuraProject
@@ -29,7 +25,6 @@ JidaiNFT
 shikigai_nft
 WhitelistPing
 Mythos_HEC
-Gridcraft
 MaisonGiveaways
 MetakamiNFT
 FuckPassNFT
@@ -44,11 +39,9 @@ DusktopiaNFT
 ZeninNFT2
 MaisonGhost
 15lovenft
-YokeeNFT
 shadow_xzy
 HameerHussain
 TakoaGiving
-OnChainMonkey
 AlphaGangX
 TheNFTCircle
 Centuryclubnft
@@ -76,13 +69,16 @@ B_F_Party
 0xTajigen
 TheOrnisNFT
 Dres_Empire
+OVERBORNENFT
+bapesclan
+HolyVerseNFT
+KaijuKingzSanta
 ShroudedNFT
 ShisokaNFT
 BakedBerserk
 crazycatznft
 SpaceWarlockNFT
 ZooniesXYZ
-Mystical_Masks
 Katatonik_nft
 ZUKUVERSE
 Kazuki_NFT
