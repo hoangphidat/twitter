@@ -73,6 +73,11 @@ OVERBORNENFT
 bapesclan
 HolyVerseNFT
 KaijuKingzSanta
+BlvckAlphaPage
+GravilessNFT
+a0k1verse
+minimenclub
+ProjectCode_X
 ShroudedNFT
 ShisokaNFT
 BakedBerserk
@@ -82,14 +87,12 @@ ZooniesXYZ
 Katatonik_nft
 ZUKUVERSE
 Kazuki_NFT
-BloodBatsNFT
 InternetFoxes
 USPOOKEDME
 ZakiroNFT
 FudBoisNFT
 EmojiverseNFT
 bravebullsnft
-NightmarePrjct
 CryptoMangaLabs
 kaizoku_nft
 chosenbrats
@@ -100,7 +103,6 @@ JewelersNFT
 wagmiarmynft
 Gremlintownwtf_
 SuperSoldiers3D
-chimpnana
 DreamersNFT_
 solanamobile
 UltimateFoxyCl1
@@ -109,3 +111,5 @@ DegenSweepers
 thefriendgiants
 AliensTrippin
 LykeIsland
+TsukimiLoft
+Freemintpass_
