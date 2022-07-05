@@ -13,7 +13,6 @@ ragstorichienft
 MysticMen_
 ChubbyJiras
 s7nsstation
-ChiefToadNFT
 DuppiesNFT
 ZekiroNFT
 SuperDracos
@@ -78,6 +77,14 @@ GravilessNFT
 a0k1verse
 minimenclub
 ProjectCode_X
+ProjectZXM
+LunaticsNft
+MultiversalWalk
+Dropoutz_NFT
+EVALabsLLC
+ColiseumNFT
+shroom_stamps
+downsies
 ShroudedNFT
 ShisokaNFT
 BakedBerserk
@@ -113,3 +120,5 @@ AliensTrippin
 LykeIsland
 TsukimiLoft
 Freemintpass_
+HiddenApes
+illusionNFT_
