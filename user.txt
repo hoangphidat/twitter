@@ -40,7 +40,6 @@ MaisonGhost
 15lovenft
 shadow_xzy
 HameerHussain
-TakoaGiving
 AlphaGangX
 TheNFTCircle
 Centuryclubnft
@@ -86,6 +85,12 @@ ColiseumNFT
 shroom_stamps
 downsies
 TheApeList_
+STFUPALS
+coolmanbabies
+weaboveofficial
+ezu_xyz
+undeedsnft
+NFTips_
 ShroudedNFT
 ShisokaNFT
 BakedBerserk
@@ -123,3 +128,4 @@ TsukimiLoft
 Freemintpass_
 HiddenApes
 illusionNFT_
+Cool_BullsNFT
