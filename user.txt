@@ -15,7 +15,6 @@ MetakamiNFT
 FuckPassNFT
 Yogapetz
 BlvckParis
-WizardPassNFT
 ProjectSuisei
 nickelodeon_nft
 RecurForever
@@ -25,13 +24,11 @@ shadow_xzy
 HameerHussain
 AlphaGangX
 TheNFTCircle
-Centuryclubnft
 ESION_Club
 VibeKingdom_
 justape_
 kahiruNFT
 GodJiraslove
-keung
 AlphaGangGang
 ryandcrypto
 KevinSusanto
@@ -40,7 +37,6 @@ DonteCrypto
 KaijuKingz
 nftadvent
 PhasesNFT
-tinyastroNFT
 YokaiVerseIO
 B_F_Party
 0xTajigen
@@ -53,7 +49,6 @@ KaijuKingzSanta
 BlvckAlphaPage
 GravilessNFT
 a0k1verse
-minimenclub
 LunaticsNft
 MultiversalWalk
 Dropoutz_NFT
@@ -90,6 +85,11 @@ TheGoda_io
 TeddyBearsNFTs
 AngryDinosNFT
 DreamWorldNFT_
+atama_nft
+ChubbyJiras
+DarkLabss
+9gagceo
+memeland
 ShisokaNFT
 SpaceWarlockNFT
 ZooniesXYZ
