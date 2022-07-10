@@ -56,7 +56,6 @@ ColiseumNFT
 shroom_stamps
 TheApeList_
 STFUPALS
-coolmanbabies
 weaboveofficial
 ezu_xyz
 NFTips_
@@ -94,5 +93,7 @@ psychedelic_nft
 BorednHungry
 McGoblinBurger
 metakongz_G
-asylumhalls
 metabrewsociety
+azul
+TastyBonesNFT
+DormantDragons
