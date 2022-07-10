@@ -12,7 +12,6 @@ WhitelistPing
 Mythos_HEC
 MaisonGiveaways
 MetakamiNFT
-FuckPassNFT
 Yogapetz
 BlvckParis
 ProjectSuisei
