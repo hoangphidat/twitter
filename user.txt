@@ -105,3 +105,4 @@ freakzz_nft
 PhantomZeroNFT
 MekaRim_NFT
 TakoaGiving
+Rug_Nfts
