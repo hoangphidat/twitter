@@ -1,4 +1,3 @@
-ETH
 NFTYKEYS
 IsekaiMeta
 MysticsNFT
@@ -108,7 +107,6 @@ TheAmericans_US
 Universe_BNB
 SeaRaidersNFT
 MonkeVoyager
-OfficialWAYC
 HappyCamperNFT
 nanoblackbox
 Yu_Gi_Yn
@@ -122,3 +120,9 @@ BILLIONERSNFT
 YakuzziOfficial
 BosoTokyo
 KaijuFrenz
+Huminians
+AtomoKidsPJB
+SinnersClub_
+HarakaiNFT
+MirsofSpace
+MagicFolk_NFT
