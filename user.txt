@@ -10,12 +10,9 @@ shikigai_nft
 WhitelistPing
 Mythos_HEC
 MaisonGiveaways
-MetakamiNFT
 Yogapetz
 BlvckParis
 ProjectSuisei
-nickelodeon_nft
-RecurForever
 MaisonGhost
 shadow_xzy
 HameerHussain
@@ -31,7 +28,6 @@ gangsterallstar
 KaijuKingz
 nftadvent
 PhasesNFT
-YokaiVerseIO
 0xTajigen
 Dres_Empire
 OVERBORNENFT
@@ -53,7 +49,6 @@ NFTips_
 Lobby3_DAO
 KlaytnGames
 CryptoVonDoom
-ApeNightClub
 SubwayRatsNft
 ZUKUVERSE
 SajadNFT
@@ -84,7 +79,6 @@ Freemintpass_
 TsukimiLoft
 owangenft
 DusktopiaNFT
-8bitguyz
 MintStoryNFT
 ThievesList
 LifesAJoke_NFT
@@ -103,7 +97,6 @@ FadeMints
 DinoWorldNFT_
 GameStopNFT
 InkeNFT
-TheAmericans_US
 Universe_BNB
 SeaRaidersNFT
 MonkeVoyager
@@ -126,3 +119,11 @@ SinnersClub_
 HarakaiNFT
 MirsofSpace
 MagicFolk_NFT
+HelloCharlieNFT
+GoMilkyNFT
+KarensHateNFT
+Thefuckupsnft
+ZooniesXYZ
+MonkaiNFT
+WonderersNFT
+ArtificIntelNFT
