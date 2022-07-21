@@ -127,3 +127,4 @@ ZooniesXYZ
 MonkaiNFT
 WonderersNFT
 ArtificIntelNFT
+OakParadiseNFT
