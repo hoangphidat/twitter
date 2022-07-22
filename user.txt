@@ -1,5 +1,4 @@
 NFTYKEYS
-IsekaiMeta
 MysticsNFT
 ragstorichienft
 operationSIN
@@ -27,7 +26,6 @@ KevinSusanto
 gangsterallstar
 KaijuKingz
 nftadvent
-PhasesNFT
 0xTajigen
 Dres_Empire
 OVERBORNENFT
@@ -55,7 +53,6 @@ SajadNFT
 KosherCollabs
 Sidekast
 ArcaneTools
-ExponJr
 lazythings
 puffswastaken
 s7nsstation
@@ -74,7 +71,6 @@ metabrewsociety
 azul
 TastyBonesNFT
 TheSmircs
-Katatonik_nft
 Freemintpass_
 TsukimiLoft
 owangenft
@@ -99,7 +95,6 @@ GameStopNFT
 InkeNFT
 Universe_BNB
 SeaRaidersNFT
-MonkeVoyager
 HappyCamperNFT
 nanoblackbox
 Yu_Gi_Yn
@@ -107,23 +102,16 @@ apelistgives
 EtihadNFT
 thelittlesnft
 GMC_NFT
-kamitamanft
-exodia_io
 BILLIONERSNFT
 YakuzziOfficial
-BosoTokyo
 KaijuFrenz
-Huminians
 AtomoKidsPJB
 SinnersClub_
 HarakaiNFT
 MirsofSpace
-MagicFolk_NFT
 HelloCharlieNFT
 GoMilkyNFT
-KarensHateNFT
 Thefuckupsnft
-ZooniesXYZ
 MonkaiNFT
 WonderersNFT
 ArtificIntelNFT
@@ -147,3 +135,10 @@ alphabirds_xyz
 StickmenToys
 WealthyTeds
 NFTCheetah
+ProjectYinYang
+Devilish_Toonz
+bearfrenzNFT
+TastyCollabs
+polkapheen
+ProjectKaitoNFT
+itseggnft_xyz
