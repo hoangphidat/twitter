@@ -142,3 +142,4 @@ TastyCollabs
 polkapheen
 ProjectKaitoNFT
 itseggnft_xyz
+metararity
