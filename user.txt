@@ -88,7 +88,6 @@ HappyCamperNFT
 nanoblackbox
 Yu_Gi_Yn
 apelistgives
-EtihadNFT
 thelittlesnft
 GMC_NFT
 KaijuFrenz
@@ -98,11 +97,8 @@ HarakaiNFT
 MirsofSpace
 HelloCharlieNFT
 GoMilkyNFT
-Thefuckupsnft
-MonkaiNFT
 WonderersNFT
 ArtificIntelNFT
-MooncatzNFT
 techie_club
 KOPandaria
 EarpitzNFT
@@ -111,7 +107,6 @@ toshimeta
 IDNTTS
 coniuncollab
 Magma_nft
-GotchaGatchaNFT
 MeebitsNFTs
 campcosmos
 NFArcade
@@ -147,3 +142,17 @@ AmeerGiveaway
 playmetalcore
 BalloontownNFT
 TrophyHunters_
+MattInWeb3
+pxnwhitebox
+ExLabsCo
+solanamobile
+ArtiesLtd
+CyberGangTWT
+chunk_studio
+MagicFolk_NFT
+3volv_Project
+RealDreylo
+LVCollabs
+TheLastAzaraks
+lagaleriedesNFT
+CarrotzNFTs
