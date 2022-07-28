@@ -1,5 +1,4 @@
 NFTYKEYS
-TheAsuraProject
 MutantMusks
 JidaiNFT
 shikigai_nft
@@ -36,7 +35,6 @@ TheApeList_
 STFUPALS
 weaboveofficial
 ezu_xyz
-NFTips_
 Lobby3_DAO
 KlaytnGames
 CryptoVonDoom
@@ -83,7 +81,6 @@ FadeMints
 DinoWorldNFT_
 GameStopNFT
 InkeNFT
-Universe_BNB
 HappyCamperNFT
 nanoblackbox
 Yu_Gi_Yn
@@ -139,7 +136,6 @@ metararity
 Aristide_Tofani
 keung
 AmeerGiveaway
-playmetalcore
 BalloontownNFT
 TrophyHunters_
 MattInWeb3
@@ -156,3 +152,8 @@ LVCollabs
 TheLastAzaraks
 lagaleriedesNFT
 CarrotzNFTs
+InfiniteDrive_
+BadBirdsNFT
+SupperClub_NFT
+DawnSamurai_NFT
+fukboisnft
