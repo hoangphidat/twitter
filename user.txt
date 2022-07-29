@@ -88,7 +88,6 @@ apelistgives
 thelittlesnft
 GMC_NFT
 KaijuFrenz
-AtomoKidsPJB
 SinnersClub_
 HarakaiNFT
 MirsofSpace
@@ -101,19 +100,15 @@ KOPandaria
 EarpitzNFT
 OakParadiseNFT
 toshimeta
-IDNTTS
 coniuncollab
 Magma_nft
 MeebitsNFTs
 campcosmos
 NFArcade
-oddities_xyz
 AptosLabs
 zeta_io
 alphabirds_xyz
 StickmenToys
-WealthyTeds
-NFTCheetah
 ProjectYinYang
 Devilish_Toonz
 bearfrenzNFT
@@ -121,13 +116,11 @@ TastyCollabs
 polkapheen
 ProjectKaitoNFT
 itseggnft_xyz
-MoeinKhatteSiah
 carebears_nfts
 catpocalypsenft
 SaphireNFT
 artgobblers
 Puffy_Planet
-wolfboss_nft
 1984global
 HTMKER
 MonsterlandNFT
@@ -135,7 +128,6 @@ FungaNFT
 metararity
 Aristide_Tofani
 keung
-AmeerGiveaway
 BalloontownNFT
 TrophyHunters_
 MattInWeb3
@@ -143,7 +135,6 @@ pxnwhitebox
 ExLabsCo
 solanamobile
 ArtiesLtd
-CyberGangTWT
 chunk_studio
 MagicFolk_NFT
 3volv_Project
@@ -158,3 +149,8 @@ SupperClub_NFT
 DawnSamurai_NFT
 fukboisnft
 RainbowAlpha_
+MindblowonNFT
+fomo_lab
+PGodjiraAsia
+AmeerAlphaa
+FWBtweets
