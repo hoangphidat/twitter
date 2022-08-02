@@ -1,6 +1,4 @@
 NFTYKEYS
-MutantMusks
-JidaiNFT
 shikigai_nft
 WhitelistPing
 Mythos_HEC
@@ -12,12 +10,10 @@ MaisonGhost
 shadow_xzy
 AlphaGangX
 TheNFTCircle
-ESION_Club
 VibeKingdom_
 GodJiraslove
 AlphaGangGang
 ryandcrypto
-KevinSusanto
 gangsterallstar
 KaijuKingz
 nftadvent
@@ -38,7 +34,6 @@ ezu_xyz
 Lobby3_DAO
 KlaytnGames
 CryptoVonDoom
-SubwayRatsNft
 ZUKUVERSE
 SajadNFT
 KosherCollabs
@@ -78,7 +73,6 @@ KODAONFT
 sickapesociety
 MEEPSofficial
 FadeMints
-DinoWorldNFT_
 GameStopNFT
 InkeNFT
 HappyCamperNFT
@@ -115,7 +109,6 @@ bearfrenzNFT
 TastyCollabs
 polkapheen
 ProjectKaitoNFT
-itseggnft_xyz
 carebears_nfts
 catpocalypsenft
 SaphireNFT
@@ -142,7 +135,6 @@ RealDreylo
 LVCollabs
 TheLastAzaraks
 lagaleriedesNFT
-CarrotzNFTs
 InfiniteDrive_
 BadBirdsNFT
 SupperClub_NFT
@@ -154,3 +146,14 @@ fomo_lab
 PGodjiraAsia
 AmeerAlphaa
 FWBtweets
+Peking_Monsters
+_NFTU
+TheNFT_Academy
+BentoBoiNFT
+Ascendants_nft
+seamorexyz
+Machina_NFT
+elefrens
+trait_sniper
+eth_apple
+oncyber
