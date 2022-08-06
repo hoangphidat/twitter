@@ -54,8 +54,6 @@ TsukimiLoft
 owangenft
 DusktopiaNFT
 MintStoryNFT
-ThievesList
-LifesAJoke_NFT
 asian_mint
 freakzz_nft
 PhantomZeroNFT
@@ -156,3 +154,7 @@ X_periment_X
 DonteCrypto
 SpaceRunnersNFT
 3V3RYDAYP3OPL3
+TBDAlpha
+garbagefriends
+TheDegens_
+DegenPasss
