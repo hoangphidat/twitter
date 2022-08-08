@@ -62,7 +62,6 @@ sickapesociety
 MEEPSofficial
 FadeMints
 GameStopNFT
-InkeNFT
 HappyCamperNFT
 nanoblackbox
 Yu_Gi_Yn
@@ -71,7 +70,6 @@ thelittlesnft
 GMC_NFT
 KaijuFrenz
 SinnersClub_
-HarakaiNFT
 MirsofSpace
 HelloCharlieNFT
 GoMilkyNFT
