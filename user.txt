@@ -5,7 +5,6 @@ Mythos_HEC
 MaisonGiveaways
 Yogapetz
 BlvckParis
-ProjectSuisei
 MaisonGhost
 shadow_xzy
 AlphaGangX
@@ -15,7 +14,6 @@ AlphaGangGang
 ryandcrypto
 gangsterallstar
 nftadvent
-Dres_Empire
 OVERBORNENFT
 HolyVerseNFT
 KaijuKingzSanta
@@ -149,7 +147,6 @@ oncyber
 CryptoGorillaYT
 toastpunk
 Llamaverse_
-OnlyPassNFT
 X_periment_X
 DonteCrypto
 SpaceRunnersNFT
@@ -158,3 +155,11 @@ TBDAlpha
 garbagefriends
 TheDegens_
 DegenPasss
+UjiAngelGMI
+MoonfishNFT
+sillyhedgehogs
+ONEWORDBRICK
+ether
+Isaac_degen
+DininhoNFT
+GoingToZero_NFT
