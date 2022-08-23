@@ -11,8 +11,6 @@ ryandcrypto
 gangsterallstar
 OVERBORNENFT
 KaijuKingzSanta
-a0k1verse
-Dropoutz_NFT
 ColiseumNFT
 TheApeList_
 weaboveofficial
@@ -26,7 +24,6 @@ ArcaneTools
 lazythings
 s7nsstation
 bvbblefriends
-DarkLabss
 9gagceo
 memeland
 lunarprojectnft
@@ -151,3 +148,5 @@ GakkoVerse
 AtsuiNFT
 Kryptoria
 PlutusLandNFT
+TheRatTrapNFT
+DominionX_NFT
