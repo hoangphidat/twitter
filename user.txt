@@ -67,7 +67,6 @@ ArtiesLtd
 InfiniteDrive_
 RainbowAlpha_
 PGodjiraAsia
-AmeerAlphaa
 Peking_Monsters
 BentoBoiNFT
 Machina_NFT
@@ -123,3 +122,8 @@ TheRatTrapNFT
 DominionX_NFT
 Mitsubishinft
 TBDKitchen
+DegenPigeons
+spiritgates
+AlphaBlocksNFT
+WeAllSurvived
+AttomsNFT
