@@ -13,7 +13,6 @@ KosherCollabs
 ArcaneTools
 bvbblefriends
 lunarprojectnft
-Freemintpass_
 TsukimiLoft
 owangenft
 MintStoryNFT
@@ -33,7 +32,6 @@ campcosmos
 NFArcade
 zeta_io
 alphabirds_xyz
-ProjectYinYang
 SaphireNFT
 1984global
 HTMKER
@@ -53,7 +51,6 @@ SpaceRunnersNFT
 3V3RYDAYP3OPL3
 garbagefriends
 sillyhedgehogs
-KumaverseNFT
 Dres_Empire
 KevinSusanto
 AnimemeLabs
@@ -65,7 +62,6 @@ GasGuzzlers_NFT
 FridayBeersNFT
 PLTNMPrimates
 DegenGiveaways
-KGPotato_NFT
 TheJalals
 ecotars
 usedtoiletswtf
@@ -106,7 +102,6 @@ Bedans_Official
 CatsLabAlpha
 BearFriends_NFT
 NexusToolsNFT
-witchardsnft
 SupercuteNFT
 GRNDFUO
 operationSIN
@@ -115,3 +110,12 @@ MiuziumOfficial
 angrycat_nft
 MinecraftDao_
 officialboinft
+omega_orcs
+CompanionsNFT_
+ScarySamuraiNFT
+AListAlpha
+DesArtsNFT
+ovrnft
+AlphaAzaza
+MythDivision
+CoziesOfficial
