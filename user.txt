@@ -106,3 +106,4 @@ MindblowonNFT
 trait_sniper
 MetaListNFT
 atama_nft
+wulfznft
