@@ -117,3 +117,4 @@ MEXC_Global
 Coniunio
 HAPEsocial
 AlphaListWL
+PlutusLandNFT
