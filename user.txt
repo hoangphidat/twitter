@@ -129,3 +129,5 @@ FlowerFamNFT
 VandalCityCorp
 VivityNFT
 SeizonNFT
+blankstudioart
+themetalogist
