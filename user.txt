@@ -128,3 +128,4 @@ SurgenceNFT
 FlowerFamNFT
 VandalCityCorp
 VivityNFT
+SeizonNFT
