@@ -143,3 +143,4 @@ themagus_nfts
 LVCollabs
 FREEMINT_PASS
 pxquest
+Katatonik_nft
