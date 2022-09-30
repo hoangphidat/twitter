@@ -144,3 +144,4 @@ LVCollabs
 FREEMINT_PASS
 pxquest
 Katatonik_nft
+KumaBossNFT
