@@ -186,3 +186,4 @@ DonteCrypto
 SurgenceNFT
 8TailsSociety
 zafchow
+web3ZED
