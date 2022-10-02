@@ -21,7 +21,6 @@ pancake_crypto0
 A4lLfa7
 0xKillTheWolf
 JungleK_Alpha
-searchfi_eth
 Meta_Blessings
 MintStoryNFT
 ArcaneTools
@@ -29,7 +28,6 @@ Avatizer_NFT
 ecotars
 ColiseumNFT
 WhosjiLabs
-AlphaBlocksNFT
 sillyhedgehogs
 BeVEENFT
 BearFriends_NFT
@@ -122,4 +120,5 @@ DoNotCIick
 hanazawa_nft
 lunarprojectnft
 Yogapetz
+BeepBoopBotz
 bestnftdrop_io
