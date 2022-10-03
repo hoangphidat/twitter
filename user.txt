@@ -137,10 +137,8 @@ web3ZED
 HalaNFTs
 TheApeList_
 Dropoutz_NFT
-PRJCTGiveaway
 AG_Giveaway
 th_JPNFT
-LeoStudio_LS
 XCarnival_Lab
 mev_official
 Jerryalphanft
@@ -153,3 +151,9 @@ SecretAlphaX
 Kiddo_y00ts
 Ascendants_nft
 MonsterlandNFT
+eth_apple
+Squarez_NFT
+truthcollect1ve
+9Tales_Gives
+UjiAngelGMI
+82house_
