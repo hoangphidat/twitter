@@ -100,7 +100,6 @@ joinvalhalla
 LostRealmsXYZ
 MylandMetaverse
 BluutopiaNFT
-OxyaOrigin
 OpenTigersNFT
 HiddenKittenCTY
 DtoolsTeam
@@ -132,12 +131,9 @@ CatsLabAlpha
 MindblowonNFT
 SecretAlphaX
 trait_sniper
-MetaListNFT
-TheApeList_
 TheZooClub8
 mbdcollabs
 alphabirds_xyz
-MEXC_Global
 Coniunio
 HAPEsocial
 AlphaListWL
@@ -153,6 +149,7 @@ zafchow
 YakuzaIncNFT
 Superful_xyz
 gala_nft2
-8TailsSociety
 BCBanditsNFT
 Joey_lucky666
+Tmnbap
+Inn3r_Circle
