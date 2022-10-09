@@ -33,7 +33,6 @@ Astersnft
 omega_orcs
 thelittlesnft
 AbstractRealm_
-Jampzer
 TheDegens_
 themetalogist
 Nyolings
@@ -144,7 +143,6 @@ the_x2y2
 omega_alpha_nft
 DonteCrypto
 SurgenceNFT
-8TailsSociety
 OpenPowNFT
 zafchow
 YakuzaIncNFT
@@ -161,3 +159,5 @@ TheEarlyNFT
 ethxcollabs
 ThePenthouseNFT
 ExplodersNFT
+Jampzer
+BentoBoiNFT
