@@ -99,7 +99,6 @@ hanazawa_nft
 MetroGradNFT
 dudulabNFT
 CyberTokyo_ox
-MetroGradNFT
 abstractnouveau
 LastHopeNFT
 MintMitama
@@ -174,3 +173,4 @@ RKropachek
 sibeleth
 blankstudioart
 maxmillions_eth
+TheSaudisNFT
