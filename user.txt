@@ -88,7 +88,6 @@ BlackDustNFT
 MetroGradNFT
 dudulabNFT
 CyberTokyo_ox
-MetroGradNFT
 abstractnouveau
 LastHopeNFT
 MintMitama
@@ -215,5 +214,4 @@ atama_nft
 MaisonGhost
 voiders_collab
 UjiAngelGMI
-pxnwhitebox
 Magma_ga
