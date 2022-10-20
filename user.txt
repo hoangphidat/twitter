@@ -216,3 +216,4 @@ voiders_collab
 UjiAngelGMI
 Magma_ga
 BaseMintGang
+MakizushiNFT
