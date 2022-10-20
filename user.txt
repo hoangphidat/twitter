@@ -158,18 +158,13 @@ SecretAlphaX
 trait_sniper
 MetaListNFTs
 TheApeList_
-TheZooClub8
 mbdcollabs
 alphabirds_xyz
-Coniunio
-HAPEsocial
 AlphaListWL
 PlutusLandNFT
-MattInWeb3
 DonteCrypto
 SurgenceNFT
 OpenPowNFT
-zafchow
 YakuzaIncNFT
 Superful_xyz
 gala_nft2
@@ -185,8 +180,6 @@ AG_Giveaway
 TheSaudisNFT
 web3sg
 TheEarlyNFT
-CryptosimejiGA
-WenWL_
 GodJiraslove
 AzukiAlphaBeans
 NTOutreach
@@ -196,9 +189,7 @@ KaijuKingzSanta
 ZerkPass
 KaijuFrenz
 AstorniaGiving
-HameerHussain
 YagiverseMarket
-arcadedotinc
 rahul19_rahul
 Royalgiving
 atama_nft
