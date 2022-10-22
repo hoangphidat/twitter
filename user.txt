@@ -204,3 +204,4 @@ HokeHustles
 DegenerateNews
 andrewchoi5
 AptosMonkeys
+MetascanPro
