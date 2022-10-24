@@ -159,3 +159,4 @@ AptosLabs
 a_long9
 TheHootList
 Kuroki_NFT
+CloneXAlpha
