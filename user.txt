@@ -153,3 +153,4 @@ wulfznft
 OpenPowNFT
 OpenTigersNFT
 LaserCatNft
+10000NFT
