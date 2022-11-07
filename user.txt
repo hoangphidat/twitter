@@ -152,3 +152,4 @@ moonbirdsdyn
 wulfznft
 OpenPowNFT
 OpenTigersNFT
+LaserCatNft
