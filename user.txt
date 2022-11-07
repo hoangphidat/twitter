@@ -155,4 +155,5 @@ OpenTigersNFT
 LaserCatNft
 10000NFT
 youtopianft
-AlfheimNFT	0
+AlfheimNFT
+Cryptosimeji
