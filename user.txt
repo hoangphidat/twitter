@@ -4,15 +4,12 @@ InakaTabi_NFT
 aptosduckss
 Hey_Reap3r
 hodlopaths
-gabrielleydon
 Pimp_CSGO
 ChillTunaNFT
-DigiDaigaku
 Mitsubishinft
 ecotars
 ColiseumNFT
 sillyhedgehogs
-SaphireNFT
 shojira
 LeoStudio_LS
 Alpine_NFT
@@ -23,6 +20,7 @@ MyraiCreations
 Mixverse_
 pandoranfts
 ShinzoNFTs_
+HypersAPT
 MetaListNFT
 metararity
 GemsScope
@@ -35,6 +33,7 @@ Jerryalphanft
 0xColumbus
 yauchunnft
 Jampzer
+RKropachek
 owangenft
 ZUKUVERSE
 Machina_NFT
@@ -82,7 +81,12 @@ LlamaAI_NFTs
 Dinofattiesnft
 DIOsNFT_
 OpenGateNFT
+MushokuNFT
+stayhumangen
+AlfheimNFT
+rektdogs
 Yogapetz
+MeltdownNFT
 MEXC_Global
 the_x2y2
 omega_alpha_nft
@@ -109,6 +113,9 @@ SurgenceNFT
 YakuzaIncNFT
 gala_nft2
 BCBanditsNFT
+Cryptosimeji
+coniuncollab
+AG_Giveaway
 web3sg
 FREEMINT_PASS
 KaijuKingzSanta
@@ -155,5 +162,7 @@ OpenTigersNFT
 LaserCatNft
 10000NFT
 youtopianft
-AlfheimNFT
-Cryptosimeji
+TarikBln
+sweetblockio
+HootLabsNFT
+Guildcall
