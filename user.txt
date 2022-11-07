@@ -150,3 +150,5 @@ Tmnbap
 atNFTART
 moonbirdsdyn
 wulfznft
+OpenPowNFT
+OpenTigersNFT
