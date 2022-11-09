@@ -168,3 +168,4 @@ HootLabsNFT
 Guildcall
 MaisonGhost
 MorganStoneee
+KumaBossNFT
