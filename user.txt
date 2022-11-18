@@ -195,3 +195,5 @@ the100alpha
 LuckyBuy_io
 0x1Minute
 CryptoRex_nft
+SpaceRiders_NFT
+CloneXAlpha
