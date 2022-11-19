@@ -15,6 +15,7 @@ ecotars
 ColiseumNFT
 sillyhedgehogs
 Slugganft
+HalaNFTs
 DeviatorsNFT
 MyraiCreations
 ShinzoNFTs_
