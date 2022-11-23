@@ -13,6 +13,9 @@ HTMKER
 Oldeusofficial
 ArtTokyoGlobal
 HoshiBoshiNFT
+KiraCorpHQ
+SchoolData_NFT
+EarpitzNFT
 ecotars
 sillyhedgehogs
 Slugganft
@@ -51,10 +54,7 @@ tangerinenft
 KyusenOfficial
 heycape_
 LastHopeNFT
-KiraCorpHQ
-SchoolData_NFT
 WhitelistPing
-EarpitzNFT
 3volv_Project
 MiuziumOfficial
 ShinnokiNFT
@@ -100,6 +100,19 @@ ninjalerts
 0x1Minute
 RoyalAlpha_X
 gala_nft2
+RainbowAlpha_
+alphabirds_xyz
+doobroCN
+NFTNate_
+Guildcall
+82houseGA
+ProjectBubbly
+RimmuCrypto
+NFT_Avant_Garde
+Dasfruits
+ByAnons
+JpegPalace
+SeizonNFT
 Magma_ga
 NTOutreach
 TreasurelandNFT
@@ -115,6 +128,7 @@ WabiSabiNFT
 Vazom_
 pxnwhitebox
 GodJiraslove
+CosmeNFT
 MEXC_Global
 the_x2y2
 AlphaBlocksNFT
@@ -126,6 +140,7 @@ CryptoAgresivoo
 asian_mintGA
 LaserCatNft
 eth_apple
+Cryptosimeji
 Dres_Empire
 tinyastroNFT
 Wahgmi
@@ -135,7 +150,6 @@ SappySealsNFT
 trait_sniper
 AzukiAlphaBeans
 TheApeList_
-Cryptosimeji
 coniuncollab
 MonsterlandNFT
 AG_Giveaway
@@ -147,4 +161,3 @@ KaijuFrenz
 Paul0617_NFT
 PRJCTGiveaway
 CryptoGorillaYT
-82houseGA
