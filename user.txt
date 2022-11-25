@@ -128,7 +128,6 @@ TeshuOG
 ROXY_M_7874
 0xDERchris
 SurgenceHub
-SurgenceHub
 Magma_ga
 NTOutreach
 TreasurelandNFT
@@ -174,3 +173,5 @@ KaijuFrenz
 Paul0617_NFT
 PRJCTGiveaway
 CryptoGorillaYT
+TheNFTCircle
+nftboi_
