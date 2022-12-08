@@ -29,6 +29,7 @@ DigiMiners_
 TheNemesis_io
 peweetools
 theunioverse
+fates_world
 MetaListNFT
 metararity
 GemsScope
@@ -45,6 +46,7 @@ KyusenOfficial
 RaidersLab
 tangerinenft
 heycape_
+Shatterpointgg
 LastHopeNFT
 ArcanaHQ
 YEYE_NFT
@@ -55,6 +57,7 @@ AlfheimNFT
 rektdogs
 KaizenDesu
 TheSpectre_NFT
+BishojoClub
 eonrift
 PRJCTWhitelist
 outsideYc
@@ -89,6 +92,7 @@ ShillVilleNFT
 0xL1by
 SoudanNFT_en
 rahuldoteth
+ODEKA_eth
 0x1Minute
 MoonrunnersNFT
 Antixeth
