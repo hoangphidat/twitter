@@ -54,17 +54,11 @@ LlamaAI_NFTs
 deykounft
 CryptoRex_nft
 DreamBeatzNFT
-BluutopiaNFT
-departedapes
 plutoversexyz
-CosmeNFT
-lofilians
 ToysRUsNFT
 Gor_W2E
 zipcy8888
 supersapi_nft
-FoxPalsNft
-HonestOnesNFT
 kopokoverse
 SpringfieldApes
 The_Beacon_GG
@@ -90,6 +84,9 @@ GBabies_Alpha
 ThePenthouseNFT
 Dreamofnft
 sadbunniesnft
+calvertether
+CloneX_Capsule
+Azuki_China_GA
 0x1Minute
 MoonrunnersNFT
 Antixeth
