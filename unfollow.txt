@@ -12,3 +12,5 @@ SAPPHIRE__DAO
 TheNemesis_io
 voiders_world
 sillyhedgehogs
+JUUNI_Official
+MylandMetaverse
