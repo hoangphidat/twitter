@@ -171,3 +171,4 @@ gate_io
 AshurNFT
 DefiDuelKing
 gutterdan_
+TastyBonesNFT
