@@ -63,7 +63,6 @@ HELIX_Metaverse
 Bybit_Official
 Magma_nft
 omega_alpha_nft
-0
 VistoHLK
 RainbowAlpha_
 TheSocietyNFT
