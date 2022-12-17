@@ -30,6 +30,7 @@ searchfi_eth
 VGORefsgg
 HuobiGlobal
 MetaListNFTs
+nftkoosh
 keung
 Jerryalphanft
 Jampzer
@@ -39,7 +40,6 @@ EdenGenesisGame
 FITzOnOfficial
 TheSpectre_NFT
 realmhunterio
-HELIX_Metaverse
 Shatterpointgg
 zipcy8888
 SpringfieldApes
@@ -55,7 +55,6 @@ qtdegen
 MekaRhinos
 AlphaBlocksNFT
 Ferredoksin
-DennisNovikov
 GenuineDegen
 JoeyMooose
 metavermanche
@@ -81,7 +80,6 @@ VoxelBlaze
 gate_io
 AshurNFT
 gutterdan_
-namelessven
 MEXC_Global
 the_x2y2
 ONEMINNFT
@@ -99,4 +97,9 @@ tinyastroNFT
 LeoStudio_LS
 nanoblackbox
 ryandgiving
-nftkoosh
+jpgstoreNFT
+bullishNFT
+Zindagi0410
+BAYC8420
+GiveawaysRaw
+SkinBaronEN
