@@ -101,3 +101,5 @@ catecoin
 SuiEcosystem
 TrustPad
 OfficialTravlad
+TylerGravez
+MagicCraftGame
