@@ -98,3 +98,5 @@ bunniefied
 GenuineDegen
 CryptoVonDoom
 catecoin
+SuiEcosystem
+TrustPad
