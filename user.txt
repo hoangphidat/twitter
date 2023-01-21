@@ -25,7 +25,6 @@ SecretAlphaX
 meadowlaunch
 TENGOKU_HQ
 SpikeReacts_
-MEXC_Global
 Dres_Empire
 LeoStudio_LS
 TreasurelandNFT
