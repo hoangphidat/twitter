@@ -30,3 +30,4 @@ nftlifeapp
 peweetools
 searchfi_eth
 tribute__nft
+CryptoAnglio
