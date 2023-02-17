@@ -19,3 +19,4 @@ StackerSatoshi
 Wahgmi
 WeArePlanetMojo
 Yogapetz
+DegendsLabs
