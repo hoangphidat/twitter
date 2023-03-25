@@ -1,4 +1,6 @@
+Arbitrum_Space
 arton_sid
+bearandbullnft
 bit_castle
 bitcoinbirds_
 FerredoksinETH
@@ -6,6 +8,7 @@ Hopus77
 jtimbre
 offshoda
 OverworldPlay
+panda_airdrop24
 RaritySniperNFT
 GemsScope
 searchfi_eth
@@ -14,7 +17,6 @@ Millions
 MBMGiveaways
 Arbitrum_Today
 ArbitrumNewsDAO
-Arbitrum_Space
 MetaListNFT
 TheDevsNFT
 heyitsmethedev
@@ -22,9 +24,7 @@ prime_protocol
 MeteoriaNFT
 Hasbulla_NFT
 Yogapetz
-HookedProtocol
 WorldOfMercek
-DancingDeerJB
 Lancetbot
 SuiWhale
 SaishuMirai
