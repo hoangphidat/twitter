@@ -33,3 +33,4 @@ arbitrum
 2219project
 pj_ishwy
 OfficialEraNft
+PartisiansNFT
